@@ -12,7 +12,8 @@
 <strong>⚜️ Api Filter o2.pl Website! ⚜️</strong> </p> 
 <p align="center">
 <strong>
-You Can Use Api By Uploading It To <a href="replit.com">Replit</a>
+You Can Use Api By Uploading It To <a href="https://replit.com">Replit</a>
+</strong>
 </p>
 <br><br>
 
