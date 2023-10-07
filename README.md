@@ -1,7 +1,8 @@
 -----
 
 <p align="center">
-<img src="https://imgur.io/lSSa9YM?r.jpg", width="500", height="500">
+<img class="Blob" src="https://i.imgur.com/lSSa9YM.jpg" width="120" height="120" alt="ThanhDieuTV">
+
 </p>
 
 -----
