@@ -12,7 +12,7 @@
 <strong>⚜️ Api Filter o2.pl Website! ⚜️</strong> </p> 
 <p align="center">
 <strong>
-An unique Python3 obfuscator using <a href="https://github.com/billythegoat356/Kyrie-Eleison">Kyrie Eleison</a>'s
+An unique Python3 obfuscator using <a href="replit.com">Replit</a>
 </p>
 <br><br>
 
