@@ -11,7 +11,8 @@
 <p align="center">
 <strong>⚜️ Api Filter o2.pl Website! ⚜️</strong> </p> 
 <p align="center">
-<strong>You Can Use Said By Uploading It To </strong> <a href="http://replit.com/">Replit</a>!
+<strong>
+An unique Python3 obfuscator using <a href="https://github.com/billythegoat356/Kyrie-Eleison">Kyrie Eleison</a>'s
 </p>
 <br><br>
 
