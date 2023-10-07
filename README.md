@@ -12,7 +12,7 @@
 <strong>⚜️ Api Filter o2.pl Website! ⚜️</strong> </p> 
 <p align="center">
 <strong>
-An unique Python3 obfuscator using <a href="replit.com">Replit</a>
+You Can Use Api By Uploading It To <a href="replit.com">Replit</a>
 </p>
 <br><br>
 
